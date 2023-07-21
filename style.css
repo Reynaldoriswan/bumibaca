@@ -1,0 +1,56 @@
+
+.bg-blue {
+    background-color: #213555;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    gap: 5px;
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Caveat', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'EB Garamond', serif;
+}
+
+
+.bumibaca{
+    height: 25em;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    margin-left: 35em;
+   
+}
+
+.fntWhite {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Caveat', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'EB Garamond', serif;
+}
+
+.fntWhiteBig{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Caveat', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'EB Garamond', serif;
+}
+
+.fntWhiteMedium{
+    color:bisque;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Caveat', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'EB Garamond', serif;
+}
